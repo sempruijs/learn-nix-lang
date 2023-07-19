@@ -9,7 +9,7 @@ I follow [this tutorial from nix.dev](https://nix.dev/tutorials/first-steps/nix-
 To evaluate an exmaple, make sure Nix is installed and enter the following command:
 
 ```Shell
-nix-instantiate --eval <FILENAME>ghghkk 
+nix-instantiate --eval <FILENAME>
 ```
 
 And to evaluate with an non-lazy 🏃 evaluation:
