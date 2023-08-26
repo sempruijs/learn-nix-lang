@@ -6,7 +6,7 @@ I follow [this tutorial from nix.dev](https://nix.dev/tutorials/first-steps/nix-
 
 ## evaluate an example
 
-To evaluate an exmaple, make sure Nix is installed and enter the following command:
+To evaluate an example, make sure Nix is installed and enter the following command:
 
 ```Shell
 nix-instantiate --eval <FILENAME>
